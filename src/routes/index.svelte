@@ -21,7 +21,7 @@
 </main>
 
 <script>
-const form_inputs = [ // Defines what inputs should be on the form
+let form_inputs = [ // Defines what inputs should be on the form
 	{
 		name: "First Name",
 		type: "text",
